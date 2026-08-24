@@ -12,7 +12,7 @@
 
 ### `Backend Developer • Cybersecurity Engineer`
 
-[![Discord](https://discord-readme-badge.vercel.app/api?id=839956251336245278)](https://discord.com/users/839956251336245278)
+[![Discord](https://lanyard.cnrad.dev/api/839956251336245278?theme=dark&bg=2E1A47)](https://discord.com/users/839956251336245278)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ItzGhost--xD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzGhost-xD)
 [![BatsyAPI](https://img.shields.io/badge/Project-BatsyAPI-ec3399?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/ItzGhost-xD/BatsyAPI)
