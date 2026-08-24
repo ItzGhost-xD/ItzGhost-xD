@@ -109,7 +109,7 @@ More builds are in progress — see [all repos →](https://github.com/ItzGhost-
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ItzGhost-xD&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7)
+![Trophies](https://github-profile-trophy-gamma-bay.vercel.app/?username=ItzGhost-xD&theme=dracula&no-bg=true&no-frame=true&margin-w=10&column=7)
 
 </div>
 
