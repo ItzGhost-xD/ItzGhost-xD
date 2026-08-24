@@ -16,7 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ItzGhost--xD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzGhost-xD)
 [![BatsyAPI](https://img.shields.io/badge/Project-BatsyAPI-ec3399?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/ItzGhost-xD/BatsyAPI)
-[![Live API](https://img.shields.io/badge/Try_the_API-live-8347e0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://api.nothimhacker.space)
+[![Live API](https://img.shields.io/badge/Try_the_API-live-8347e0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
 
 <!-- Uncomment as each becomes ready:
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-ec3399?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
@@ -63,7 +63,7 @@ Serves live Discord status, activity, Spotify, and game data over REST and WebSo
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/Repo-BatsyAPI-8347e0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzGhost-xD/BatsyAPI)
-[![Live API](https://img.shields.io/badge/Try_the_API-live-ec3399?style=for-the-badge&logo=googlechrome&logoColor=white)](https://api.nothimhacker.space)
+[![Live API](https://img.shields.io/badge/Try_the_API-live-ec3399?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
 ![License](https://img.shields.io/badge/License-MIT-8347e0?style=for-the-badge)
 
 </div>
