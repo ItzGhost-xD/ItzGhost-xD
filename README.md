@@ -94,8 +94,8 @@ More builds are in progress — see [all repos →](https://github.com/ItzGhost-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItzGhost-xD&hide_border=true&include_all_commits=true&title_color=ec3399&icon_color=8347e0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGhost-xD&hide_border=true&layout=compact&title_color=ec3399&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="180"/>
+<img src="https://github-readme-stats-rust-gamma-48.vercel.app/api?username=ItzGhost-xD&hide_border=true&include_all_commits=true&title_color=ec3399&icon_color=8347e0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" height="180"/>
+<img src="https://github-readme-stats-rust-gamma-48.vercel.app/api/top-langs/?username=ItzGhost-xD&hide_border=true&layout=compact&title_color=ec3399&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="180"/>
 
 <br/>
 
