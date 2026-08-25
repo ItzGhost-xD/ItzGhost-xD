@@ -26,7 +26,7 @@ I like building projects that go past the demo stage — APIs, bots, ML systems,
 
 ---
 
-# 🍎 Featured Project — FruitGuard
+# Featured Project — FruitGuard
 
 <div align="center">
 
@@ -46,13 +46,13 @@ The project asks:
 
 ### What I built
 
-- 🧠 **MobileNetV3-Small** transfer-learning classifier
-- 🧪 **Scratch CNN** for comparison
-- 🌱 **13,755 PlantVillage images** across 14 classes
-- 🌍 **95-image PlantDoc OOD benchmark** across 10 compatible classes
-- ⚡ **FastAPI + PyTorch** backend
-- ⚛️ **React + Vite** frontend
-- ☁️ Deployed with **Render + Vercel**
+- **MobileNetV3-Small** transfer-learning classifier
+- **Scratch CNN** for comparison
+- **13,755 PlantVillage images** across 14 classes
+- **95-image PlantDoc OOD benchmark** across 10 compatible classes
+- **FastAPI + PyTorch** backend
+- **React + Vite** frontend
+- Deployed with **Render + Vercel**
 
 ### The result that mattered
 
@@ -69,7 +69,7 @@ It showed how easily a model can look excellent on a familiar dataset while stru
 
 ## Other Projects
 
-### 🦇 BatsyAPI
+### BatsyAPI
 
 A real-time Discord presence API with REST + WebSocket support, Redis caching, MongoDB analytics, Swagger docs, and deployment infrastructure.
 
@@ -79,11 +79,11 @@ A real-time Discord presence API with REST + WebSocket support, Redis caching, M
 
 ### Smaller Builds
 
-- 🌦️ **WeatherFeels** — weather-focused application built with Node.js and external weather data
-- 🐈‍⬛ **BlackCat** — multi-purpose Discord bot with moderation and utility features
-- 📚 **StudyBuddy** — study-focused bot/project for productivity and academic support
-- 🎵 **Lampy** — Discord music bot project
-- 🤖 **AI Study Assistant** — experimental AI-assisted study workflow
+- **WeatherFeels** — weather-focused application built with Node.js and external weather data
+- **BlackCat** — multi-purpose Discord bot with moderation and utility features
+- **StudyBuddy** — study-focused bot/project for productivity and academic support
+- **Lampy** — Discord music bot project
+- **AI Study Assistant** — experimental AI-assisted study workflow
 
 Some of these are private/prototype repositories, but they represent the smaller systems and experiments I built while learning different stacks.
 
