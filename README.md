@@ -126,7 +126,9 @@ A real-time Discord presence API with REST + WebSocket support, Redis caching, M
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzGhost-xD&bg_color=0d1117&color=c9d1d9&line=00c2ff&point=00a6c7&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItzGhost-xD&theme=github_dark" height="165" alt="GitHub stats summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItzGhost-xD&theme=github_dark&utcOffset=4" height="165" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItzGhost-xD&theme=github_dark" height="165" alt="Repositories per language"/>
 
 </div>
 
