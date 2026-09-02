@@ -148,8 +148,7 @@ A real-time Discord presence API with REST + WebSocket support, Redis caching, M
 
 <div align="center">
 
-<!-- Add your Spotify recently-played card here once your Spotify user ID is known. -->
-🎧 **Spotify card coming next**
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31r7eh7plcwx44hh3423vpwyowwq)](https://open.spotify.com/user/31r7eh7plcwx44hh3423vpwyowwq)
 
 </div>
 
